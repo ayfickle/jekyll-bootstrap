@@ -2,6 +2,10 @@
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
 
+## What did fickle change?
+
+> change sth to fit usual env without a perfect ruby env and server locally succeed.
+
 ## Usage
 
 For all usage and documentation please see: <http://jekyllbootstrap.com>
